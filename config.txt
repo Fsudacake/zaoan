@@ -1,0 +1,44 @@
+##############################
+##
+##       作者：张澳旗
+##     微信：17600005204
+##   有偿代做、每天自动推送
+##
+##############################
+
+{
+"app_id": "wxe63d276388654293",
+"app_secret": "2f69c471846b12ce1f525fbfe0c35ea2",
+
+"template_id": "UQViHU_cy3-i12h39gDdR7W9c_mENw4VbfcsyDtLKXg",
+"user_id": ["oyMgE54m1ao8WcHVD3g8D639Iu8M", "oyMgE55x4Rzgw_PUONv4GY4LIlAU", "oyMgE53RkN2iKXqNRIOz2uMS82wQ", "oyMgE5zmP_I2lqN77PTJULgnAY9I"],
+#"user_id": ["请替换为自己的 微信号 01" , "请替换为自己的 微信号 02"],
+
+"C_ShengFen": "江苏",
+"C_ChengShi": "盐城",
+"S_XingZuo": "天蝎座",
+
+"S_Love": "2020-06-20",
+"birthday1": "2002-11-12",
+"birthday2": "2002-10-25",
+
+"C_String01": "可以替换为自己想要的文字 01",
+"C_String02": "努力奔跑总会遇到美好的你",
+"C_String03": "可以替换为自己想要的文字 03",
+
+
+# 天气预报
+"API_TQYB":"50907f56ca83f55ba04d56c0735f95f5",
+# 星座运势
+"API_XZYS":"50907f56ca83f55ba04d56c0735f95f5",
+
+# 早安心语
+"API_ZAXY":"50907f56ca83f55ba04d56c0735f95f5",
+# 晚安心语
+"API_WAXY":"50907f56ca83f55ba04d56c0735f95f5",
+
+# 舔狗日记
+"API_TGRJ":"50907f56ca83f55ba04d56c0735f95f5",
+# 土味情话
+"API_TWQH":"50907f56ca83f55ba04d56c0735f95f5"
+}
